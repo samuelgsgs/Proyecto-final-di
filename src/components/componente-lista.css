@@ -1,0 +1,19 @@
+li.el-undone {
+  font-weight: bold;
+}
+
+li.el-done {
+  text-decoration: line-through;
+}
+
+li.alta {
+  color: red;
+}
+
+li.media {
+  color: green;
+}
+
+li.baja {
+  color: blue;
+}
